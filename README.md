@@ -12,5 +12,5 @@ the same, then it is sorted by ID.
 
 ## Constraints
 * Cannot use the hash map data structure.
-* Must use custom made data structures. Can be found in this repo: https://github.com/CharlieAust1n/CSC-316-DataStructures/tree/main
+* Must use custom made data structures. Can be found in this repo: https://github.com/CharlieAust1n/CSC-316-DataStructures
 * Must be able to finish running in under 30 seconds when given a very large file.
