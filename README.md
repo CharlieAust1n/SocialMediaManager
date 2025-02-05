@@ -11,3 +11,6 @@ by date. If the dates are the same, then they are sorted by the connection ID. F
 the same, then it is sorted by ID.
 
 ## Constraints
+* Cannot use the hash map data structure.
+* Must use custom made data structures. Can be found in this repo: 
+* Must be able to finish running in under 30 seconds when given a very large file.
