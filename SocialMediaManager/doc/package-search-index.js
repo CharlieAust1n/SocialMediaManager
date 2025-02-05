@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"edu.ncsu.csc316.social.manager"},{"l":"edu.ncsu.csc316.social.ui"}];updateSearchResults();

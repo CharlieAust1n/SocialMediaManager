@@ -1,0 +1,14 @@
+Please enter the name of the person file: dne.csv
+File not found. Please try again.
+Please enter the name of the person file: people.csv
+Please enter the name of the connection file: dne.csv
+File not found. Please try again.
+Please enter the name of the connection file: connections.csv
+
+Social Media Manager Program - Please choose a command. 
+
+VCSMU - View Connections of Each Social Media User
+VCSMP - View Connections for Each Social Media Platform
+quit
+
+cmd> quit

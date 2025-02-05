@@ -1,0 +1,32 @@
+Please enter the name of the person file: test-2-people.csv
+Please enter the name of the connection file: connections.csv
+
+Social Media Manager Program - Please choose a command. 
+
+VCSMU - View Connections of Each Social Media User
+VCSMP - View Connections for Each Social Media Platform
+quit
+
+cmd> VCSMU
+
+No people information was provided.
+
+
+Social Media Manager Program - Please choose a command. 
+
+VCSMU - View Connections of Each Social Media User
+VCSMP - View Connections for Each Social Media Platform
+quit
+
+cmd> VCSMP
+
+No people information was provided.
+
+
+Social Media Manager Program - Please choose a command. 
+
+VCSMU - View Connections of Each Social Media User
+VCSMP - View Connections for Each Social Media Platform
+quit
+
+cmd> quit

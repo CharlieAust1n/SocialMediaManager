@@ -1,0 +1,128 @@
+Please enter the name of the person file: people.csv
+Please enter the name of the connection file: connections.csv
+
+Social Media Manager Program - Please choose a command. 
+
+VCSMU - View Connections of Each Social Media User
+VCSMP - View Connections for Each Social Media Platform
+quit
+
+cmd> VCSMU
+
+Connections for Phyliss Beahan (beahanp130) {
+   Justin Boyer (boyerj706) on LinkedIn since Sat Nov 20 19:11:47 EST 2021
+   Brooks Homenick (homenickb690) on Facebook since Sun Feb 11 05:45:35 EST 2018
+   Brooks Homenick (homenickb690) on LinkedIn since Sun Jun 23 13:13:15 EDT 2019
+   Leonard Runolfsdottir (runolfsdottirl591) on WhatsApp since Tue Dec 08 03:54:58 EST 2020
+   Royce Simonis (simonisr882) on Instagram since Sun May 10 21:10:38 EDT 2015
+}
+Connections for Justin Boyer (boyerj706) {
+   Phyliss Beahan (beahanp130) on LinkedIn since Sat Nov 20 19:11:47 EST 2021
+   Brooks Homenick (homenickb690) on Instagram since Wed Mar 11 06:10:33 EDT 2015
+   Cristobal Jones (jonesc957) on WeChat since Wed Nov 11 18:51:12 EST 2015
+   Napoleon Kertzmann (kertzmannn329) on Telegram since Wed Nov 16 03:42:00 EST 2016
+   Leonard Runolfsdottir (runolfsdottirl591) on WhatsApp since Mon Oct 26 22:11:06 EDT 2015
+   Leonard Runolfsdottir (runolfsdottirl591) on Discord since Sun Feb 04 09:23:24 EST 2018
+   Royce Simonis (simonisr882) on Twitch since Mon Aug 03 02:54:39 EDT 2020
+}
+Connections for Brooks Homenick (homenickb690) {
+   Phyliss Beahan (beahanp130) on Facebook since Sun Feb 11 05:45:35 EST 2018
+   Phyliss Beahan (beahanp130) on LinkedIn since Sun Jun 23 13:13:15 EDT 2019
+   Justin Boyer (boyerj706) on Instagram since Wed Mar 11 06:10:33 EDT 2015
+   Cristobal Jones (jonesc957) on Facebook since Wed Mar 11 00:26:46 EDT 2020
+   Napoleon Kertzmann (kertzmannn329) on Discord since Fri Jun 10 21:34:34 EDT 2016
+   Chang Murazik (murazikc970) on TikTok since Mon Apr 03 11:38:59 EDT 2023
+   Leonard Runolfsdottir (runolfsdottirl591) on Reddit since Sun Nov 10 23:02:36 EST 2019
+   Leonard Runolfsdottir (runolfsdottirl591) on Twitch since Sun Dec 19 07:42:48 EST 2021
+}
+Connections for Cristobal Jones (jonesc957) {
+   Justin Boyer (boyerj706) on WeChat since Wed Nov 11 18:51:12 EST 2015
+   Brooks Homenick (homenickb690) on Facebook since Wed Mar 11 00:26:46 EDT 2020
+   Chang Murazik (murazikc970) on LinkedIn since Fri Jul 02 22:41:29 EDT 2021
+}
+Connections for Napoleon Kertzmann (kertzmannn329) {
+   Justin Boyer (boyerj706) on Telegram since Wed Nov 16 03:42:00 EST 2016
+   Brooks Homenick (homenickb690) on Discord since Fri Jun 10 21:34:34 EDT 2016
+   Chang Murazik (murazikc970) on Telegram since Sun Nov 23 13:14:01 EST 2014
+   Royce Simonis (simonisr882) on Twitter since Wed Jul 28 22:55:33 EDT 2021
+}
+Connections for Chang Murazik (murazikc970) {
+   Brooks Homenick (homenickb690) on TikTok since Mon Apr 03 11:38:59 EDT 2023
+   Cristobal Jones (jonesc957) on LinkedIn since Fri Jul 02 22:41:29 EDT 2021
+   Napoleon Kertzmann (kertzmannn329) on Telegram since Sun Nov 23 13:14:01 EST 2014
+   Leonard Runolfsdottir (runolfsdottirl591) on Facebook since Fri Apr 18 20:45:17 EDT 2014
+}
+Connections for Leonard Runolfsdottir (runolfsdottirl591) {
+   Phyliss Beahan (beahanp130) on WhatsApp since Tue Dec 08 03:54:58 EST 2020
+   Justin Boyer (boyerj706) on WhatsApp since Mon Oct 26 22:11:06 EDT 2015
+   Justin Boyer (boyerj706) on Discord since Sun Feb 04 09:23:24 EST 2018
+   Brooks Homenick (homenickb690) on Reddit since Sun Nov 10 23:02:36 EST 2019
+   Brooks Homenick (homenickb690) on Twitch since Sun Dec 19 07:42:48 EST 2021
+   Chang Murazik (murazikc970) on Facebook since Fri Apr 18 20:45:17 EDT 2014
+}
+Connections for Royce Simonis (simonisr882) {
+   Phyliss Beahan (beahanp130) on Instagram since Sun May 10 21:10:38 EDT 2015
+   Justin Boyer (boyerj706) on Twitch since Mon Aug 03 02:54:39 EDT 2020
+   Napoleon Kertzmann (kertzmannn329) on Twitter since Wed Jul 28 22:55:33 EDT 2021
+}
+
+
+Social Media Manager Program - Please choose a command. 
+
+VCSMU - View Connections of Each Social Media User
+VCSMP - View Connections for Each Social Media Platform
+quit
+
+cmd> VCSMP
+
+Connections on Discord {
+   Fri Jun 10 21:34:34 EDT 2016: Brooks Homenick (homenickb690) <--> Napoleon Kertzmann (kertzmannn329)
+   Sun Feb 04 09:23:24 EST 2018: Justin Boyer (boyerj706) <--> Leonard Runolfsdottir (runolfsdottirl591)
+}
+Connections on Facebook {
+   Fri Apr 18 20:45:17 EDT 2014: Chang Murazik (murazikc970) <--> Leonard Runolfsdottir (runolfsdottirl591)
+   Sun Feb 11 05:45:35 EST 2018: Phyliss Beahan (beahanp130) <--> Brooks Homenick (homenickb690)
+   Wed Mar 11 00:26:46 EDT 2020: Brooks Homenick (homenickb690) <--> Cristobal Jones (jonesc957)
+}
+Connections on Instagram {
+   Wed Mar 11 06:10:33 EDT 2015: Justin Boyer (boyerj706) <--> Brooks Homenick (homenickb690)
+   Sun May 10 21:10:38 EDT 2015: Phyliss Beahan (beahanp130) <--> Royce Simonis (simonisr882)
+}
+Connections on LinkedIn {
+   Sun Jun 23 13:13:15 EDT 2019: Phyliss Beahan (beahanp130) <--> Brooks Homenick (homenickb690)
+   Fri Jul 02 22:41:29 EDT 2021: Cristobal Jones (jonesc957) <--> Chang Murazik (murazikc970)
+   Sat Nov 20 19:11:47 EST 2021: Phyliss Beahan (beahanp130) <--> Justin Boyer (boyerj706)
+}
+Connections on Reddit {
+   Sun Nov 10 23:02:36 EST 2019: Brooks Homenick (homenickb690) <--> Leonard Runolfsdottir (runolfsdottirl591)
+}
+Connections on Telegram {
+   Sun Nov 23 13:14:01 EST 2014: Napoleon Kertzmann (kertzmannn329) <--> Chang Murazik (murazikc970)
+   Wed Nov 16 03:42:00 EST 2016: Justin Boyer (boyerj706) <--> Napoleon Kertzmann (kertzmannn329)
+}
+Connections on TikTok {
+   Mon Apr 03 11:38:59 EDT 2023: Brooks Homenick (homenickb690) <--> Chang Murazik (murazikc970)
+}
+Connections on Twitch {
+   Mon Aug 03 02:54:39 EDT 2020: Justin Boyer (boyerj706) <--> Royce Simonis (simonisr882)
+   Sun Dec 19 07:42:48 EST 2021: Brooks Homenick (homenickb690) <--> Leonard Runolfsdottir (runolfsdottirl591)
+}
+Connections on Twitter {
+   Wed Jul 28 22:55:33 EDT 2021: Napoleon Kertzmann (kertzmannn329) <--> Royce Simonis (simonisr882)
+}
+Connections on WeChat {
+   Wed Nov 11 18:51:12 EST 2015: Justin Boyer (boyerj706) <--> Cristobal Jones (jonesc957)
+}
+Connections on WhatsApp {
+   Mon Oct 26 22:11:06 EDT 2015: Justin Boyer (boyerj706) <--> Leonard Runolfsdottir (runolfsdottirl591)
+   Tue Dec 08 03:54:58 EST 2020: Phyliss Beahan (beahanp130) <--> Leonard Runolfsdottir (runolfsdottirl591)
+}
+
+
+Social Media Manager Program - Please choose a command. 
+
+VCSMU - View Connections of Each Social Media User
+VCSMP - View Connections for Each Social Media Platform
+quit
+
+cmd> quit

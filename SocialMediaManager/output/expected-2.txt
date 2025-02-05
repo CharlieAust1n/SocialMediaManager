@@ -1,0 +1,87 @@
+Please enter the name of the person file: test-1-people.csv
+Please enter the name of the connection file: test-1-connections.csv
+
+Social Media Manager Program - Please choose a command. 
+
+VCSMU - View Connections of Each Social Media User
+VCSMP - View Connections for Each Social Media Platform
+quit
+
+cmd> VCSMU
+
+Connections for Layla Crona (cronal634) {
+   Elroy Daniel (daniele34) on Instagram since Sun Dec 24 13:08:22 EST 2017
+   Rowena Price (pricer774) on LinkedIn since Sat Mar 12 11:49:52 EST 2016
+   Rowena Price (pricer774) on YouTube since Sun Feb 06 12:06:46 EST 2022
+}
+Connections for Elroy Daniel (daniele34) {
+   Layla Crona (cronal634) on Instagram since Sun Dec 24 13:08:22 EST 2017
+   John Daniel (danielj21) on Discord since Sun Dec 24 02:39:21 EST 2017
+   Santos McLaughlin (mclaughlins441) on LinkedIn since Tue Oct 25 01:14:24 EDT 2022
+   Santos McLaughlin (mclaughlins441) on Discord since Mon Jan 02 15:33:47 EST 2023
+   Rowena Price (pricer774) on WeChat since Fri Oct 04 23:39:25 EDT 2013
+}
+Connections for John Daniel (danielj01) {
+   John Daniel (danielj21) on Discord since Wed Mar 01 13:25:47 EST 2023
+}
+Connections for John Daniel (danielj21) {
+   Elroy Daniel (daniele34) on Discord since Sun Dec 24 02:39:21 EST 2017
+   John Daniel (danielj01) on Discord since Wed Mar 01 13:25:47 EST 2023
+}
+Connections for Santos McLaughlin (mclaughlins441) {
+   Elroy Daniel (daniele34) on LinkedIn since Tue Oct 25 01:14:24 EDT 2022
+   Elroy Daniel (daniele34) on Discord since Mon Jan 02 15:33:47 EST 2023
+   Rowena Price (pricer774) on LinkedIn since Mon Jul 06 10:26:48 EDT 2020
+   Rowena Price (pricer774) on Snapchat since Sat Jul 18 23:30:45 EDT 2020
+}
+Connections for Rowena Price (pricer774) {
+   Layla Crona (cronal634) on LinkedIn since Sat Mar 12 11:49:52 EST 2016
+   Layla Crona (cronal634) on YouTube since Sun Feb 06 12:06:46 EST 2022
+   Elroy Daniel (daniele34) on WeChat since Fri Oct 04 23:39:25 EDT 2013
+   Santos McLaughlin (mclaughlins441) on LinkedIn since Mon Jul 06 10:26:48 EDT 2020
+   Santos McLaughlin (mclaughlins441) on Snapchat since Sat Jul 18 23:30:45 EDT 2020
+}
+Connections for Tonita Schumm (schummt809) {
+   No connections exist
+}
+
+
+Social Media Manager Program - Please choose a command. 
+
+VCSMU - View Connections of Each Social Media User
+VCSMP - View Connections for Each Social Media Platform
+quit
+
+cmd> VCSMP
+
+Connections on Discord {
+   Sun Dec 24 02:39:21 EST 2017: Elroy Daniel (daniele34) <--> John Daniel (danielj21)
+   Mon Jan 02 15:33:47 EST 2023: Elroy Daniel (daniele34) <--> Santos McLaughlin (mclaughlins441)
+   Wed Mar 01 13:25:47 EST 2023: John Daniel (danielj01) <--> John Daniel (danielj21)
+}
+Connections on Instagram {
+   Sun Dec 24 13:08:22 EST 2017: Layla Crona (cronal634) <--> Elroy Daniel (daniele34)
+}
+Connections on LinkedIn {
+   Sat Mar 12 11:49:52 EST 2016: Layla Crona (cronal634) <--> Rowena Price (pricer774)
+   Mon Jul 06 10:26:48 EDT 2020: Santos McLaughlin (mclaughlins441) <--> Rowena Price (pricer774)
+   Tue Oct 25 01:14:24 EDT 2022: Elroy Daniel (daniele34) <--> Santos McLaughlin (mclaughlins441)
+}
+Connections on Snapchat {
+   Sat Jul 18 23:30:45 EDT 2020: Santos McLaughlin (mclaughlins441) <--> Rowena Price (pricer774)
+}
+Connections on WeChat {
+   Fri Oct 04 23:39:25 EDT 2013: Elroy Daniel (daniele34) <--> Rowena Price (pricer774)
+}
+Connections on YouTube {
+   Sun Feb 06 12:06:46 EST 2022: Layla Crona (cronal634) <--> Rowena Price (pricer774)
+}
+
+
+Social Media Manager Program - Please choose a command. 
+
+VCSMU - View Connections of Each Social Media User
+VCSMP - View Connections for Each Social Media Platform
+quit
+
+cmd> quit
